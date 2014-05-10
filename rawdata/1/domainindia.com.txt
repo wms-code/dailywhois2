@@ -1,0 +1,78 @@
+ :Domain Name: DOMAININDIA.COM
+Registry Domain ID: 2442513_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: www.publicdomainregistry.com
+Updated Date: 04-Nov-2011
+Creation Date: 17-Nov-1998
+Registrar Registration Expiration Date: 16-Nov-2016
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1-2013775952
+Domain Status: OK
+Registry Registrant ID: DI_6828572
+Registrant Name: Dr.Ajay Khosla
+Registrant Organization: Ankhnet Informations Private Limited
+Registrant Street: IInd Floor, Khosla Niwas, 57, Subhash road ,Vile-Parle (East)   
+Registrant City: Mumbai
+Registrant State/Province: Maharashtra
+Registrant Postal Code: 400003
+Registrant Country: IN
+Registrant Phone: +91.0223703030
+Registrant Phone Ext: 
+Registrant Fax: +91.0223703020
+Registrant Fax Ext: 
+Registrant Email: ankh@ankhnet.net
+Registry Admin ID: DI_6828572
+Admin Name: Dr.Ajay Khosla
+Admin Organization: Ankhnet Informations Private Limited
+Admin Street: IInd Floor, Khosla Niwas, 57, Subhash road ,Vile-Parle (East)  
+Admin City: Mumbai
+Admin State/Province: Maharashtra
+Admin Postal Code: 400003
+Admin Country: IN
+Admin Phone: +91.0223703030
+Admin Phone Ext: 
+Admin Fax: +91.0223703020
+Admin Fax Ext: 
+Admin Email: ankh@ankhnet.net
+Registry Tech ID: DI_6828572
+Tech Name: Dr.Ajay Khosla
+Tech Organization: Ankhnet Informations Private Limited
+Tech Street: IInd Floor, Khosla Niwas, 57, Subhash road ,Vile-Parle (East)  
+Tech City: Mumbai
+Tech State/Province: Maharashtra
+Tech Postal Code: 400003
+Tech Country: IN
+Tech Phone: +91.0223703030
+Tech Phone Ext: 
+Tech Fax: +91.0223703020
+Tech Fax Ext: 
+Tech Email: ankh@ankhnet.net
+Name Server: ns2.ankhnet.net
+Name Server: ns.ankhnet.net
+DNSSEC:Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: 
+http://wdprs.internic.net/
+>>>Last update of WHOIS database: 2014-04-15T04:10:23+0000Z<<<
+
+Registration Service Provided By: ANKHNET INFORMATIONS PRIVATE LIMITED
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is PDR Ltd. d/b/a PublicDomainRegistry.com. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

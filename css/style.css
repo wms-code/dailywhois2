@@ -1,0 +1,165 @@
+html {
+  background-color: #ffffff;
+}
+body {
+        padding-top: 64px;
+        overflow-x: hidden;
+}
+
+@media (max-width: 767px) {
+  body {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+}
+/* This makes absolutely positioned elements like p, h1,
+     and some bootstrap elements placed properly. */
+ body>p, body>h1, body>h2, body>h3, body>h4, body>h5, body>h6 {
+  margin-top: 0 !important;
+}
+.container-fluid .container .row-fluid .span12 .nav li a.a-2 {
+  text-align: center;
+  color: #cccccc;
+}
+.container-fluid .row-fluid .span4 .heading.heading-1 {
+  font-size: 29px;
+  text-align: center;
+  color: #454545;
+  font-weight: normal;
+}
+.container-fluid .row-fluid .span4 p.p-1 {
+  font-weight: 300;
+  font-size: 16px;
+  text-align: center;
+  line-height: 25px;
+}
+.container-fluid .row-fluid.row-fluid-1 {
+  margin: 50px 0px 50px 0px;
+}
+.container-fluid div.div-1 {
+  margin: 30px 0px 20px 0px;
+  text-align: center;
+}
+
+.container-fluid.container-fluid-1 {
+  margin-top: 20px;
+}
+
+.container-fluid.container-fluid-2 {
+  background: #333333;
+  padding: 10px 0px 10px 0px;
+}
+.navbar .navbar-inner .nav li a.a-1 {
+  line-height: 40px;
+}
+.navbar {
+  width: auto;
+  height: 64px;
+  position: absolute;
+}
+.navbar .navbar-inner {
+  background: rgba(255, 255, 255, 0.96);
+  -moz-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.098);
+  -webkit-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.098);
+  -o-box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.098);
+  box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.098);
+  padding: 0px 20px 0px 20px;
+  height: 64px;
+}
+.navbar .navbar-inner .brand {
+  margin: 0px 0px 0px -15px;
+  text-shadow: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+  font-family:"oswald";
+  font-size: 24px;
+  font-weight: bold;
+  color: #333333;
+  line-height: 40px;
+}
+.navbar .navbar-inner .image {
+  border-radius: 0px 0px 0px 0px;
+  margin: 16px 0px 0px;
+  width: 30px;
+  height: 30px;
+}
+.container-fluid .container-fluid {
+  padding: 10px 0px 10px 0px;
+}
+.container-fluid .container-fluid p {
+  font-weight: 300;
+  text-align: center;
+  font-size: 37px;
+  line-height: 50px;
+}
+.content p {
+  font-weight: normal !important;
+  text-align: left !important;
+  font-size: 17px !important;
+  line-height: 24px !important;
+  padding: 0px 30px;
+}
+
+input, textarea, .uneditable-input {
+  padding-left: 10px;
+	height: 30px;
+}
+
+.contact{
+  text-align: center;
+}
+
+
+.content {
+  padding-top: 0px !important;
+}
+
+.container-fluid .page-header h1 {
+  line-height: 43px;
+  font-size: 30px;
+}
+
+.container-fluid div .whois{
+  background: rgba(240, 95, 60, 0.87);
+  margin: 0px 0px 0px 20px;
+  width: 150px;
+}
+.container-fluid div input.textinput {
+  padding: 4px 8px;
+  margin: 20px 0px;
+  font-size: 16px;
+  line-height: 19.25px;
+  height: 32.1667px;
+}
+.container-fluid .container .row-fluid .span12 .nav {
+  margin: 0px;
+}
+.container-fluid .container .row-fluid .span12 .pull-left p, .container-fluid .container .row-fluid .span12 .pull-right p {
+  font-weight: 300;
+  color: #ffffff;
+  line-height: 36px;
+}
+
+/******
+Whois Data
+*******/
+
+.whois-container{
+  margin: 0px auto 0px;
+  float: none;
+}
+
+/******
+Misc
+***********/
+
+.container{
+  max-width: 1124px;
+}
+
+.ads{
+  text-align: center;
+  margin: 20px auto;
+}
